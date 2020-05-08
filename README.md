@@ -1,7 +1,7 @@
-# coronavirus_update
+# Coronavirus update
 
-Display the current cases
-
+Display the current cases (global and country wise)
+It also displays the precautions to taken
 ## Getting Started
 
 This project is a starting point for a Flutter application.
